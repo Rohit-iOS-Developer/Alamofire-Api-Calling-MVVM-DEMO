@@ -1,6 +1,0 @@
-framework module Pods_Alamofire_Api_Calling_MVVM_DEMO {
-  umbrella header "Pods-Alamofire-Api-Calling-MVVM-DEMO-umbrella.h"
-
-  export *
-  module * { export * }
-}
